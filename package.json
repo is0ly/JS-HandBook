@@ -1,0 +1,22 @@
+{
+  "name": "js-handbook",
+  "version": "1.0.0",
+  "description": "JS handbook and basic concepts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is0ly/JS-HandBook.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "is0ly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/is0ly/JS-HandBook/issues"
+  },
+  "homepage": "https://github.com/is0ly/JS-HandBook#readme"
+}
