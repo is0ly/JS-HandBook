@@ -2,7 +2,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png)
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg)
+![](https://img.shields.io/github/is0ly/JS-HandBook)
 
 This repository contains JavaScript basic concepts
 
