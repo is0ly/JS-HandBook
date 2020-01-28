@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/is0ly/JS-HandBook/issues"
   },
-  "homepage": "https://github.com/is0ly/JS-HandBook#readme"
+  "homepage": "https://github.com/is0ly/JS-HandBook#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }

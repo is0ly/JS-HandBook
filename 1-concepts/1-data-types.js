@@ -4,6 +4,7 @@
 
 let age = 34;
 console.log(`age data type is -- ${typeof age}`);
+console.log(`NaN - special number value -- ${1 * "dd"}`);
 
 // ?  2 - string
 
