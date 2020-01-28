@@ -1,5 +1,7 @@
 # Javascript HandBook
 
+![](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+
 This repository contains JavaScript basic concepts
 
 ## Concepts
