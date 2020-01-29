@@ -11,6 +11,19 @@ This repository contains JavaScript basic concepts
 -   [Data types](1-concepts/1-data-types.js)
 -   [Typecasting](1-concepts/2-type-casting.js)
 
+### Installation
+
+Javascript HandBook requires [Node.js](https://nodejs.org/) v4+ to run.
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+$ cd JS-HandBook
+$ npm install
+$ cd [folder what you want]
+$ node [file what you want]
+```
+
 ### Todos
 
 -   Add all JS basic concepts
