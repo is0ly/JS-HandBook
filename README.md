@@ -11,6 +11,10 @@ This repository contains JavaScript basic concepts
 -   [Data types](1-concepts/1-data-types.js)
 -   [Typecasting](1-concepts/2-type-casting.js)
 
+## Code Snippets
+
+-   [Unique array items](2-code-snippets/1-unique-array-items.js)
+
 ### Installation
 
 Javascript HandBook requires [Node.js](https://nodejs.org/) v4+ to run.
