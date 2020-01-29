@@ -24,6 +24,8 @@ $ cd [folder what you want]
 $ node [file what you want]
 ```
 
+`$ npm install marked`
+
 ### Todos
 
 -   Add all JS basic concepts
