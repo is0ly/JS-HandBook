@@ -15,6 +15,7 @@ This repository contains JavaScript basic concepts
 
 -   [Unique array items](2-code-snippets/1-unique-array-items.js)
 -   [Array sort](2-code-snippets/2-array-sort.js)
+-   [Is Prime](2-code-snippets/3-is-prime.js)
 
 ### Installation
 
