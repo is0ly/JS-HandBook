@@ -21,7 +21,7 @@ let array = [
 
 let unique = array.filter((v, i, a) => a.indexOf(v) === i);
 
-// x --> item in array
+// v --> item in array
 // i --> index of item
 // a --> array reference, (in this case "array")
 
