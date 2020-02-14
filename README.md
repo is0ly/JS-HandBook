@@ -19,6 +19,7 @@ This repository contains JavaScript basic concepts
 -   [4-Recursive setTimeout](2-code-snippets/4-recursive-setTimeout.js)
 -   [5-Chunk array](2-code-snippets/5-chunk-array.js)
 -   [6-Chunk stringto array](2-code-snippets/6-chunk-string-to-array.js)
+-   [7-Deep flatten](2-code-snippets/7-deep-flatten.js)
 
 ### Installation
 
