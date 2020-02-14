@@ -13,10 +13,12 @@ This repository contains JavaScript basic concepts
 
 ## Code Snippets
 
--   [Unique array items](2-code-snippets/1-unique-array-items.js)
--   [Array sort](2-code-snippets/2-array-sort.js)
--   [Is Prime](2-code-snippets/3-is-prime.js)
--   [Recursive setTimeout](2-code-snippets/4-recursive-setTimeout.js)
+-   [1-Unique array items](2-code-snippets/1-unique-array-items.js)
+-   [2-Array sort](2-code-snippets/2-array-sort.js)
+-   [3-Is prime](2-code-snippets/3-is-prime.js)
+-   [4-Recursive setTimeout](2-code-snippets/4-recursive-setTimeout.js)
+-   [5-Chunk array](2-code-snippets/5-chunk-array.js)
+-   [6-Chunk stringto array](2-code-snippets/6-chunk-string-to-array.js)
 
 ### Installation
 
