@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":["out","document","querySelector","innerHTML"],"mappings":"AAAA,IAAMA,GAAG,GAAGC,QAAQ,CAACC,aAAT,CAAuB,MAAvB,CAAZ;AAEAF,GAAG,CAACG,SAAJ,gBAAsB,IAAI,CAA1B","file":"app.c328ef1a.js","sourceRoot":"..","sourcesContent":["const out = document.querySelector(\".out\");\n\nout.innerHTML = `<p>${2 + 3}</p>`;\n"]}

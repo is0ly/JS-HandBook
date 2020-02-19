@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Roboto", sans-serif;
+}
+.wrapper {
+    padding-top: 2rem;
+    max-width: 1000px;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+.out {
+    padding-top: 4rem;
+    text-align: center;
+}
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */

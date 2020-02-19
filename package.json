@@ -4,7 +4,8 @@
     "description": "JS handbook and basic concepts",
     "main": "app.js",
     "scripts": {
-        "dev": "nodemon app.js"
+        "dev": "nodemon app.js",
+        "start": "parcel index.html"
     },
     "repository": {
         "type": "git",
@@ -21,6 +22,7 @@
     "homepage": "https://github.com/is0ly/JS-HandBook#readme",
     "dependencies": {},
     "devDependencies": {
-        "nodemon": "^2.0.2"
+        "nodemon": "^2.0.2",
+        "parcel-bundler": "^1.12.4"
     }
 }
