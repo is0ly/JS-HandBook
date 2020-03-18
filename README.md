@@ -21,6 +21,7 @@ This repository contains JavaScript basic concepts
 - [6-Chunk stringto array](2-code-snippets/6-chunk-string-to-array.js)
 - [7-Deep flatten](2-code-snippets/7-deep-flatten.js)
 - [8-Is anagram](2-code-snippets/8-is-anagram.js)
+- [8-Up first letter](2-code-snippets/9-up-first-letter.js)
 
 ### Installation
 
