@@ -1,28 +1,28 @@
 {
-    "name": "js-handbook",
-    "version": "1.0.0",
-    "description": "JS handbook and basic concepts",
-    "main": "app.js",
-    "scripts": {
-        "dev": "nodemon app.js",
-        "start": "parcel index.html"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/is0ly/JS-HandBook.git"
-    },
-    "keywords": [
-        "JS"
-    ],
-    "author": "is0ly",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/is0ly/JS-HandBook/issues"
-    },
-    "homepage": "https://github.com/is0ly/JS-HandBook#readme",
-    "dependencies": {},
-    "devDependencies": {
-        "nodemon": "^2.0.2",
-        "parcel-bundler": "^1.12.4"
-    }
+  "name": "js-handbook",
+  "version": "1.0.0",
+  "description": "JS handbook and basic concepts",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is0ly/JS-HandBook.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "is0ly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/is0ly/JS-HandBook/issues"
+  },
+  "homepage": "https://github.com/is0ly/JS-HandBook#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "parcel-bundler": "^1.12.4"
+  }
 }
