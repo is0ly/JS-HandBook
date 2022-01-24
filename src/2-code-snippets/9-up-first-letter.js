@@ -1,5 +1,5 @@
-const solution = str => {
-  const arrayFromArgs = str.split(" ");
+const solution = (str) => {
+  const arrayFromArgs = str.split(' ');
 
   const splitted = arrayFromArgs.reduce((acc, item) => {
     acc.push(item);
@@ -16,5 +16,5 @@ const solution = str => {
       }
       return acc;
     }, [])
-    .join(" ");
+    .join(' ');
 };

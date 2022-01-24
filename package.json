@@ -5,7 +5,9 @@
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js",
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "lint": "npx eslint ./src/",
+    "lint:fix": "npx eslint ./src --fix"
   },
   "repository": {
     "type": "git",
@@ -21,7 +23,14 @@
   },
   "homepage": "https://github.com/is0ly/JS-HandBook#readme",
   "devDependencies": {
+    "eslint": "^8.7.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.25.4",
+    "jest": "^27.4.7",
     "nodemon": "^2.0.15",
     "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "axios": "^0.25.0"
   }
 }
