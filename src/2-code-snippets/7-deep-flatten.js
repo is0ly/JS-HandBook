@@ -1,10 +1,15 @@
-const deepFlatten = (arr) => [].concat(...arr.map((v) => (Array.isArray(v) ? deepFlatten(v) : v)));
+const deepFlatten = (arr) =>
+  [].concat(...arr.map((v) => (Array.isArray(v) ? deepFlatten(v) : v)));
 
-function flatten(arr) {
-  return arr.reduce((acc, item) => (Array.isArray(item) ? acc.concat(flatten(item)) : acc.concat(item)), []);
+export function flatten(arr) {
+  return arr.reduce(
+    (acc, item) =>
+      Array.isArray(item) ? acc.concat(flatten(item)) : acc.concat(item),
+    []
+  );
 }
 
-const array = [
+export const array = [
   1,
   2,
   3,
@@ -15,4 +20,6 @@ const array = [
   (a, b) => a + b,
 ];
 
-console.log(deepFlatten(array));
+// console.log(deepFlatten(array));
+
+export default deepFlatten;

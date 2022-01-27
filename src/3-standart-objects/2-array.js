@@ -1,4 +1,4 @@
-const array = [
+const userData = [
   1,
   2,
   3,
@@ -15,9 +15,11 @@ const array = [
   },
 ];
 
-console.log(array[10](3, 9));
-console.log(array[11]('Ilya'));
+// console.log(userData[10](3, 9));
+// console.log(userData[11]('Ilya'));
 
 // * Reduce
 
-const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+export default userData;

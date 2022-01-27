@@ -29,4 +29,4 @@ const uniqueItems = Array.from(new Set(array));
 
 const uniqueItemsSpread = [...new Set(array)];
 
-console.log(unique, uniqueItems, uniqueItemsSpread);
+// console.log(unique, uniqueItems, uniqueItemsSpread);

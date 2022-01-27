@@ -1,8 +1,10 @@
 {
-    "env": {
-        "es6": true,
-        "browser": true,
-        "node":true,
-    },
-    "extends": ["airbnb/base"]
+  "env": {
+    "es6": true,
+    "browser": true,
+    "node": true,
+    "commonjs": true
+  },
+  "extends": ["airbnb/base", "prettier"],
+  "plugins": ["prettier"]
 }
