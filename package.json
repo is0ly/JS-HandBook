@@ -32,7 +32,6 @@
     "eslint-plugin-prettier": "^4.0.0",
     "jest": "^27.4.7",
     "nodemon": "^2.0.15",
-    "parcel-bundler": "^1.12.4",
     "prettier": "^2.5.1"
   },
   "dependencies": {
